@@ -1,3 +1,19 @@
+Penjelasan: 
+
+Aplikasi ini adalah aplikasi pengolahan nilai siswa berbasis web yang dibuat menggunakan framework laravel 8. Tujuan dari aplikasi ini adalah agar dapat mengolah data nilai, yang kemudian dapat mencetak nilai akhir yaitu nilai RAPORT. Aplikasi ini memiliki 3 role akses yaitu admin, guru dan wali kelas.
+
+
+
+
+
+Requirement:
+
+1. php >= 7
+2. composer >= 2.3.5
+
+
+
+
 
 Cara menjalankan:
 
